@@ -42,6 +42,18 @@
 
 ---
 
+# 🏅 Milestones
+
+🥇 50 Python Problems Completed (July 2026)
+
+🚀 First Python Mini Project Completed
+
+📚 GitHub Learning Journey Started
+
+💻 GitHub Developer Portfolio Created
+
+🎯 Next Milestone: 100 Python Problems
+
 # 📂 Featured Repositories
 
 📘 Python Learning Journey
