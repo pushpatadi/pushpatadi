@@ -1,16 +1,53 @@
-## Hi there 👋
+# 👋 Hi, I'm Pushpa!
 
-<!--
-**pushpatadi/pushpatadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌸 Welcome to my GitHub Profile!
 
-Here are some ideas to get you started:
+## 💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 B.Tech Student
+- 🐍 Currently Learning Python
+- 📚 Improving my Problem Solving Skills
+- 🚀 My Goal is to become a Software Developer
+
+---
+
+# 🏆 Achievements
+
+✅ Solved 50 Python Problems
+
+✅ Built my First Python Mini Project
+
+✅ Started my Python Learning Journey
+
+---
+
+# 📚 Current Learning
+
+- ✅ Python Basics
+- ✅ Conditions
+- ✅ Loops
+- 🔄 Next: Functions
+
+---
+
+# 🎯 Goals
+
+- [x] Solve 50 Python Problems
+- [ ] Solve 100 Python Problems
+- [ ] Build 10 Python Mini Projects
+- [ ] Learn SQL
+- [ ] Learn Django
+- [ ] Get Internship
+- [ ] Become a Software Developer
+
+---
+
+# 📂 Featured Repositories
+
+📘 Python Learning Journey
+
+🧩 Python Problem Solving
+
+---
+
+> "Small progress every day leads to big success." 🌱✨
