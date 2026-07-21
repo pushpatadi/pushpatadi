@@ -13,7 +13,7 @@
 
 # 🏆 Achievements
 
-✅ Solved 50 Python Problems
+✅ Solved 60 Python Problems
 
 ✅ Built my First Python Mini Project
 
@@ -44,7 +44,7 @@
 
 # 🏅 Milestones
 
-🥇 50 Python Problems Completed (July 2026)
+🥇 60 Python Problems Completed (July 2026)
 
 🚀 First Python Mini Project Completed
 
