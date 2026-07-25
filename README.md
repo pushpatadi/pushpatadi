@@ -13,7 +13,7 @@
 
 # 🏆 Achievements
 
-✅ Solved 60 Python Problems
+✅ Solved 75 Python Problems
 
 ✅ Built my First Python Mini Project
 
