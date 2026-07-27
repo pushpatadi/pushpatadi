@@ -21,12 +21,12 @@
 
 ---
 
-# 📚 Current Learning
+# 📚 What I Learned
 
 - ✅ Python Basics
 - ✅ Conditions
 - ✅ Loops
-- 🔄 Next: Functions
+- ☑️ Functions
 
 ---
 
@@ -44,7 +44,7 @@
 
 # 🏅 Milestones
 
-🥇 65 Python Problems Completed (July 2026)
+🥇 75 Python Problems Completed (July 2026)
 
 🚀 First Python Mini Project Completed
 
