@@ -8,25 +8,31 @@
 - 🐍 Currently Learning Python
 - 📚 Improving my Problem Solving Skills
 - 🚀 My Goal is to become a Software Developer
-
+- 🌱 Currently Practicing Python & Problem Solving
 ---
 
 # 🏆 Achievements
 
-✅ Solved 75 Python Problems
+✅ Completed 80 Python Practice 
 
-✅ Built my First Python Mini Project
+✅ Built My First Python Mini Project
 
-✅ Started my Python Learning Journey
+✅ Developed Strong Python Fundamentals
+
+✅ Consistently Practicing Python
+
 
 ---
 
 # 📚 What I Learned
 
 - ✅ Python Basics
-- ✅ Conditions
+- ✅ Conditional Statements
 - ✅ Loops
-- ☑️ Functions
+- ✅ Functions
+- ✅ Problem Solving
+- ✅ Mini Projects
+
 
 ---
 
@@ -44,7 +50,7 @@
 
 # 🏅 Milestones
 
-🥇 75 Python Problems Completed (July 2026)
+🥇 80 Python Problems Completed (July 2026)
 
 🚀 First Python Mini Project Completed
 
