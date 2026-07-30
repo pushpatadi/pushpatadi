@@ -13,7 +13,7 @@
 
 # 🏆 Achievements
 
-✅ Completed 80 Python Practice 
+✅ Completed 90 Python Practice 
 
 ✅ Built My First Python Mini Project
 
