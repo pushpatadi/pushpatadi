@@ -13,7 +13,7 @@
 
 # 🏆 Achievements
 
-✅ Completed 90 Python Practice 
+✅ Completed 100 Python Practice 
 
 ✅ Built My First Python Mini Project
 
@@ -30,6 +30,7 @@
 - ✅ Conditional Statements
 - ✅ Loops
 - ✅ Functions
+- ☑️ basics of Modules
 - ✅ Problem Solving
 - ✅ Mini Projects
 
@@ -39,7 +40,7 @@
 # 🎯 Goals
 
 - [x] Solve 50 Python Problems
-- [ ] Solve 100 Python Problems
+- [x] Solve 100 Python Problems
 - [ ] Build 10 Python Mini Projects
 - [ ] Learn SQL
 - [ ] Learn Django
@@ -50,7 +51,7 @@
 
 # 🏅 Milestones
 
-🥇 80 Python Problems Completed (July 2026)
+🥇 100 Python Problems Completed (Aug 2026)
 
 🚀 First Python Mini Project Completed
 
@@ -58,13 +59,14 @@
 
 💻 GitHub Developer Portfolio Created
 
-🎯 Next Milestone: 100 Python Problems
-
 # 📂 Featured Repositories
 
 📘 Python Learning Journey
 
-🧩 Python Problem Solving
+🧩 Python Problem solving
+
+🙍 Pushpatadi
+
 
 ---
 
